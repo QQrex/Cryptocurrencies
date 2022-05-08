@@ -1,15 +1,15 @@
 # Cryptocurrencies
 
 ## Purpose
-Accountability Accounting has tasked us to create a report that includes cryptocurriences on the trading market and to create a classfication system to group the different crypto coins. We would like to use SKlearn machine library to use unsupervised to categorize and group the coins.
+Accountability Accounting has tasked us to create a report that includes cryptocurriences on the trading market and to create a classfication system to group the different crypto coins. We will use SKlearn unsupervised machine learning library to categorize and group the coins.
 
 ## Results
 
 ### 3d plot
-![plot]()
+![plot](https://github.com/QQrex/Cryptocurrencies/blob/main/Images/bokeh_plot.png)
 
 ### Scatter plot
-![plot2]()
+![plot2](https://github.com/QQrex/Cryptocurrencies/blob/main/Images/newplot.png)
 
 ## Summary
 
